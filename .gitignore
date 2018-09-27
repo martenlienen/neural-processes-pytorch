@@ -1,0 +1,12 @@
+# jupyter checkpoints
+.ipynb_checkpoints
+
+# Python artifacts
+*.pyc
+__pycache__
+
+# Downloaded data
+data
+
+# Checkpoints
+checkpoint*
